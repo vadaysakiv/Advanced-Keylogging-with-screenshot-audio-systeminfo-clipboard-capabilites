@@ -5,7 +5,7 @@ try:
     key = Fernet.generate_key()
 
     # Specify the full path to the file
-    file_path = r"D:\vscode\python\advanced_keylogger\cryptography\encryption_key.txt"
+    file_path = r"D:\vscode\python\advanced_keylogger\cryptography\encryption_key.txt" # edit this  
 
     # Open a file in binary write mode
     with open(file_path, "wb") as file:
